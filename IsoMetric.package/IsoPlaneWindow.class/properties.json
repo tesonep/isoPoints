@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "StandardWindow",
+	"category" : "IsoMetric",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"morph"
+	],
+	"name" : "IsoPlaneWindow",
+	"type" : "normal"
+}

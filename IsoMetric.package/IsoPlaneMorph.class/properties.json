@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "IsoMetric",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"points",
+		"spaceSize"
+	],
+	"name" : "IsoPlaneMorph",
+	"type" : "normal"
+}
